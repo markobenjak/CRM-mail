@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jjXqeGmaRSltVdEFQe9LqZhHUe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\Mail" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marko\Desktop\FAKS\rest" />
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend" />
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.email.php">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rest_php/rest/db.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="api.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/api.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="email.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/email.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.email.php" />
+        <item itemvalue="JavaScript Debug.db.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="" />
+      <created>1604318666598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604318666598</updated>
+      <workItem from="1604319118117" duration="2306000" />
+      <workItem from="1604322632764" duration="3970000" />
+      <workItem from="1604484025028" duration="14957000" />
+      <workItem from="1604847130539" duration="6397000" />
+      <workItem from="1604936671280" duration="11228000" />
+      <workItem from="1605092807951" duration="10239000" />
+      <workItem from="1605283864811" duration="5460000" />
+      <workItem from="1605363370283" duration="2274000" />
+      <workItem from="1605544647970" duration="5137000" />
+      <workItem from="1605896996003" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604322128376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604322128376" />
+    <state x="667" y="163" key="#PHP" timestamp="1604322235401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604322235401" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605897101888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605897101888" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605897360689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605897360689" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1604951103940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604951103940" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1604951103940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604951103940" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1604951103940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604951103940" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1604951103940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604951103940" />
+    <state width="1340" height="326" key="GridCell.Tab.1.bottom" timestamp="1604332477509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604332477509" />
+    <state width="1340" height="326" key="GridCell.Tab.1.center" timestamp="1604332477509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604332477509" />
+    <state width="1340" height="326" key="GridCell.Tab.1.left" timestamp="1604332477509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604332477509" />
+    <state width="1340" height="326" key="GridCell.Tab.1.right" timestamp="1604332477509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604332477509" />
+    <state width="1340" height="326" key="GridCell.Tab.2.bottom" timestamp="1604326834898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604326834898" />
+    <state width="1340" height="326" key="GridCell.Tab.2.center" timestamp="1604326834898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604326834898" />
+    <state width="1340" height="326" key="GridCell.Tab.2.left" timestamp="1604326834898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604326834898" />
+    <state width="1340" height="326" key="GridCell.Tab.2.right" timestamp="1604326834898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="326" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604326834898" />
+    <state x="748" y="243" key="NewPhpClassDialog" timestamp="1605288586701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605288586701" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605288595144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605288595144" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1604324935643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604324935643" />
+    <state x="342" y="140" key="new project wizard" timestamp="1604496435165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604496435165" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605897090413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605897090413" />
+  </component>
+</project>
