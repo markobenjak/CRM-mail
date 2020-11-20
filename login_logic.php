@@ -8,7 +8,7 @@ if (isset($_POST['login']) && !empty($_POST['username'])
         die("Connection failed: " . $con->connect_error);
     }
 
-    $sql = "SELECT `email`, `password` FROM users";
+    $sql = "SELECT `email`, `password`, `admin` FROM users";
     $result = mysqli_query ($con, $sql);
 
 
@@ -18,7 +18,7 @@ if (isset($_POST['login']) && !empty($_POST['username'])
             $_SESSION['valid'] = true;
             $_SESSION['timeout'] = time();
             $_SESSION['username'] = $row_list['email'];
-
+            $_SESSION['level'] =  $row_list['admin'];
             header('Refresh: 0; URL = frontend/main.php');
         }
     }

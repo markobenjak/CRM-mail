@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="" />
+    <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/main_add_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main_archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main_archive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_logic.php" beforeDir="false" afterPath="$PROJECT_DIR$/login_logic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stored_emails.php" beforeDir="false" afterPath="$PROJECT_DIR$/stored_emails.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,18 +48,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend" />
+      <recent name="C:\Users\marko\Desktop\FAKS\rest" />
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marko\Desktop\FAKS\rest\Mail" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\marko\Desktop\FAKS\rest" />
-      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend" />
-      <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend\assets" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.email.php">
@@ -106,12 +115,15 @@
       <workItem from="1605283864811" duration="5460000" />
       <workItem from="1605363370283" duration="2274000" />
       <workItem from="1605544647970" duration="5137000" />
-      <workItem from="1605896996003" duration="317000" />
+      <workItem from="1605896996003" duration="3042000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604322128376">
@@ -130,6 +142,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605897360689" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1605897616933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605897616933" />
+    <state x="756" y="218" key="Github.UntrackedFilesDialog" timestamp="1605897627798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605897627798" />
     <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1604951103940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605288586701" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605288595144">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605898644142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605288595144" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605898644142" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1604324935643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,9 +214,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604496435165" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605897090413">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605898963245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605897090413" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605898963245" />
   </component>
 </project>

@@ -36,6 +36,11 @@ if ($_SESSION['valid'] != true){
         <a class="link-blue" href="../email.php"><i class="fa fa-cloud-download" aria-hidden="true"></i>Get new e-mails</a>
         <a class="link-red selected" href="./main_archive.php"><i class="fa fa-file-archive-o" aria-hidden="true"></i>Archive</a>
         <a class="link-yellow" href="./main.php"><i class="fa fa-keyboard-o"></i>Active</a>
+        <?php
+        if ($_SESSION['level'] == 1){
+            echo '<a href="#"><i class="fa fa-plus" aria-hidden="true"></i>Add User</a>';
+        }
+        ?>
         <a class="link-green" href="../logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i>Logout</a>
     </div>
 

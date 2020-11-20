@@ -41,11 +41,11 @@ while($row_list = mysqli_fetch_assoc ( $result )) {
                         <strong>E-mail</strong>
                     </label>
                     <input type="text" id="email" name="email" value="',$row_list['from'],'" required>
-                    <label for="email">
+                    <label for="subject">
                         <strong>Subject</strong>
                     </label>
                     <input type="text" id="subject" name="subject" value="RE: ',$row_list['subject'],'" required>
-                    <label for="email">
+                    <label for="body">
                         <strong>Body</strong>
                     </label>
                     <br>

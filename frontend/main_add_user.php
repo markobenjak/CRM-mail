@@ -34,10 +34,10 @@
     <div class="sidebar-links">
         <a class="link-blue" href="../email.php"><i class="fa fa-cloud-download" aria-hidden="true"></i>Get new e-mails</a>
         <a class="link-red" href="./main_archive.php"><i class="fa fa-file-archive-o" aria-hidden="true"></i>Archive</a>
-        <a class="link-yellow selected" href="./main.php"><i class="fa fa-keyboard-o"></i>Active</a>
+        <a class="link-yellow " href="./main.php"><i class="fa fa-keyboard-o"></i>Active</a>
         <?php
             if ($_SESSION['level'] == 1){
-                echo '<a href="./main_add_user.php"><i class="fa fa-plus" aria-hidden="true"></i>Add User</a>';
+                echo '<a class="selected" href="#"><i class="fa fa-plus" aria-hidden="true"></i>Add User</a>';
             }
         ?>
         <a class="link-green" href="../logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i>Logout</a>
@@ -47,7 +47,36 @@
 
 <div class="main-content">
 
-    <?php include "../stored_emails.php"; ?>
+    <div class="addUser"  id="addUser">
+        <form action="../add_user.php" method="post" class="formContainer">
+            <h2>Add User</h2>
+            <label for="name">
+                <strong>Name</strong>
+            </label>
+            <input type="text" id="name" name="name" required>
+            <label for="lastname">
+                <strong>Lastname</strong>
+            </label>
+            <input type="text" id="lastname" name="lastname" required>
+            <label for="email">
+                <strong>E-mail</strong>
+            </label>
+            <input type="text" id="email" name="email" required>
+            <label for="email">
+                <strong>password</strong>
+            </label>
+            <input type="password" id="password" name="password" " required>
+            <br>
+            <label for="level">
+                <strong>Admin</strong>
+            </label>
+            <input type="checkbox" id="level" name="level" value="1">
+            <br>
+            <br>
+            <br>
+            <button type="submit" class="btn">Add</button>
+        </form>
+    </div>
 
 </div>
 
@@ -75,6 +104,14 @@
         function closeForm(i) {
             document.getElementById("popupForm" + i).style.display = "none";
         }
+    }
+
+    function openFormAddUser() {
+        document.getElementById("addUser").style.display = "block";
+    }
+
+    function closeFormAddUser() {
+        document.getElementById("addUser").style.display = "none";
     }
 
 </script>
