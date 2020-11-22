@@ -53,5 +53,9 @@ Ako želite poslati mail stisnite send i poslati će sa istog onog mail sa kojeg
 11. Ako želite dodati korsnika, kliknete na add user i otvara se forma za dodavanje korisnika. Unosite podatke, a checkbox admin je pitanje da li će korsnik imati admin prava. Odnosno može li dodavati nove korisnike.
 Ako ne može tom korisniku se miče tipka add user.
 
-P.S ako želite najbolje testirati slanje i preuzimanje mailova poašljite sa svojeg maila mail na projekt.php80@gmail.com i nakon toga preuzmite ponovo mailove. Ako je mail već u bazi neće se preuzeti ponovo. Napišite odgovor te poašljite i pogledajte u kavkom će obliku stići na mail sa kojeg je poslan.  
+
+
+
+P.S ako želite najbolje testirati slanje i preuzimanje mailova poašljite sa svojeg maila mail na projekt.php80@gmail.com i nakon toga preuzmite ponovo mailove. Ako je mail već u bazi neće se preuzeti ponovo. Napišite odgovor te pošaljite i pogledajte u kakvom će obliku stići na mail sa kojeg je poslan.
+Za bilo kakva pitanja javite se na mbenjak@tvz.hr
 
