@@ -26,6 +26,12 @@ ali kako to obično bude, ne radi svima sve od prve. Ukoliko baca neki error rij
 
 5.Nakon uspješnog login-a dolazite u glavno sučelje. Biti će prazno jer nemate niti jedan e-mail u bazi.
 ![Sucelje](/images/sucelje.png)
-#Tipke na navigaciji
+
+Tipke na navigaciji:
+1. dodaj korisnika
+2. arhivirani mailovi(mailovi koji su odgovoreni)
+3. active( mailovi koji nisu odgovoreni)
+4. add user(dodaj korisnika)
+5. logout
 
 
