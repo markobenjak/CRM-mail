@@ -44,4 +44,14 @@ Ako sotajete pri mojem slobodno se ulogirajte i u gmail account direktno i pogle
 8. Pritiskom na Open E-mail tipku će te dobiti popup u kojemmožete odgovorit na mail.
 ![Mail](/images/popup.png)
 
+9. Polja za popunajvanje, odnosno email i subject će biti automatski popunjeni, dok će body polje imati samo palceholder razgovora, odnosno tijelo doalznog maila.
+Ako želite poslati mail stisnite send i poslati će sa istog onog mail sa kojeg će preuzeti mail. Ako to želite promjenite morate u datoteku send_email.php i u joj promjeniti username i password. Isto tako mora biti omogućeno spajanje vanjske aplikacije.
+
+10. Kada odgovorite na mail, on će se automatski prebaciti u arhivu, i tamo ga možete otvoriti i vidjeti povijest razgovora.
+![Mail](/images/archived.png)
+
+11. Ako želite dodati korsnika, kliknete na add user i otvara se forma za dodavanje korisnika. Unosite podatke, a checkbox admin je pitanje da li će korsnik imati admin prava. Odnosno može li dodavati nove korisnike.
+Ako ne može tom korisniku se miče tipka add user.
+
+P.S ako želite najbolje testirati slanje i preuzimanje mailova poašljite sa svojeg maila mail na projekt.php80@gmail.com i nakon toga preuzmite ponovo mailove. Ako je mail već u bazi neće se preuzeti ponovo. Napišite odgovor te poašljite i pogledajte u kavkom će obliku stići na mail sa kojeg je poslan.  
 
