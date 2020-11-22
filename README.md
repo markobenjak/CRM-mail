@@ -29,7 +29,7 @@ Sve datoteke u frontend datoteci će vas odvesti na Login stranicu, jer prvi put
 ![Sucelje](/images/sucelje.png)
 
 Tipke na navigaciji:
-1. dodaj korisnika
+1. get new-emails (dohvati mailove)
 2. arhivirani mailovi(mailovi koji su odgovoreni)
 3. active( mailovi koji nisu odgovoreni)
 4. add user(dodaj korisnika)
