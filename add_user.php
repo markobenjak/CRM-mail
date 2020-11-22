@@ -19,9 +19,6 @@ if ($level != 1){
 $sql = "INSERT INTO users (`first_name`, `last_name`, `email`, `password`, `admin`)
             VALUES ('$name', '$lastname', '$email','$password', '$level')";
 
-//$sql = "INSERT INTO users (`first_name`, `last_name`, `email`, `password`, `admin`)VALUES ('marko', 'benjak', 'password','test', 1)";
-
-
 if ($con->query($sql) === TRUE) {
     header('Refresh: 0; URL = frontend/main.php');
 }else{
