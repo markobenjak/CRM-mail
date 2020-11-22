@@ -37,7 +37,7 @@ while($row_list = mysqli_fetch_assoc ( $result )) {
             <div class="formPopup"  id="popupForm',$counter,'">
                 <form action="../send_email.php" method="post" class="formContainer">
                     <input type="hidden" id="mail_id" name="mail_id" value="',$row_list['id'],'">
-                    <h2>Respond to an email</h2>
+                    <h2>Archived E-mail</h2>
                     <label for="email">
                         <strong>E-mail</strong>
                     </label>
