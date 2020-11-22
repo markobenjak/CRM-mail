@@ -35,3 +35,13 @@ Tipke na navigaciji:
 5. logout
 
 
+6. U datotekama je podešeno spajanje na moj gmail račun koji je kreiran izričito za ovaj projekt. Ako želite koristiti svoj morate u datoteci email.php promjeniti username i password. Osim toga morate u psotvkama google računa omogućiti spajanje vanjskim aplikacijama, što predstavlja sigurnosne probleme.
+Ako sotajete pri mojem slobodno se ulogirajte i u gmail account direktno i pogledajte mailove.
+
+7.Ako je sve bilo uspješno pritiskom na tipku Get new e-mails bi trebali povući mailove i vidjeti ih na početnoj stranici.
+![Mail](/images/mailovi.png)
+
+8. Pritiskom na Open E-mail tipku će te dobiti popup u kojemmožete odgovorit na mail.
+![Mail](/images/popup.png)
+
+
