@@ -17,5 +17,7 @@ U cijeloj bazi će biti importan samo jedan redak, a to je korisnik za login u a
 2. Projekt koristi PHP biblioteke koje vam vjerojatno neće raditi iz prve. Odnosno bacati će razne errore u browseru. Library je uključen u projekt u fodler Mail, 
 ali kako to obično bude, ne radi svima sve od prve. Ukoliko baca neki error riješenje se pronađe vrlo brzo u google. Nažalost, ne mogu reći što točno treba jer je meni radilo od prve, jer sam nešto slično radio prije nekoliko mjeseci, ali više ne znam što mi je točno stvaralo problem.
     
-3.Ako koristite IntelliJ otvorite datoteku frontend/login.php. U desnom kutu će te vidjeti izbor browsera za otvaranje
+3. Ako koristite IntelliJ otvorite datoteku frontend/login.php. U desnom kutu će te vidjeti izbor browsera za otvaranje
 ![Browsers](/images/browseri.png)
+
+4. 
