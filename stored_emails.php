@@ -28,7 +28,7 @@ while($row_list = mysqli_fetch_assoc ( $result )) {
                 <code class="title">from: ',$row_list['from'],'</code>
                 <code class="title">date: ',$row_list['date'],'</code>
                 <div class="openBtn">
-                    <button class="openButton" onclick="openForm(',$counter,')"><strong>Open Form</strong></button>
+                    <button class="openButton" onclick="openForm(',$counter,')"><strong>Open E-mail</strong></button>
                 </div>
             </div>
         </a>

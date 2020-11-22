@@ -3,15 +3,27 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/add_user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/main_add_user.php" afterDir="false" />
+    <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="unused">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/main_archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main_archive.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_logic.php" beforeDir="false" afterPath="$PROJECT_DIR$/login_logic.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stored_emails.php" beforeDir="false" afterPath="$PROJECT_DIR$/stored_emails.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +75,15 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.email.php">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,15 +129,76 @@
       <workItem from="1605283864811" duration="5460000" />
       <workItem from="1605363370283" duration="2274000" />
       <workItem from="1605544647970" duration="5137000" />
-      <workItem from="1605896996003" duration="3042000" />
+      <workItem from="1605896996003" duration="3372000" />
+      <workItem from="1605952480395" duration="12000" />
+      <workItem from="1606040937534" duration="2398000" />
+      <workItem from="1606063563686" duration="2514000" />
     </task>
+    <task id="LOCAL-00001" summary="Chnages version 2">
+      <created>1605900328910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605900328910</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed comments">
+      <created>1606042468451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606042468451</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed comments">
+      <created>1606064110422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606064110422</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed comments">
+      <created>1606065180313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606065180313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="unused">
+      <created>1606065359728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606065359728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="unused">
+      <created>1606065742392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606065742392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Chnages version 2" />
+    <MESSAGE value="Removed comments" />
+    <MESSAGE value="unused" />
+    <option name="LAST_COMMIT_MESSAGE" value="unused" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604322128376">
@@ -210,6 +285,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604324935643" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606065745984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606065745984" />
     <state x="342" y="140" key="new project wizard" timestamp="1604496435165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
