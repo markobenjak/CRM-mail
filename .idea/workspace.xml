@@ -24,7 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="unused">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stored_emails.php" beforeDir="false" afterPath="$PROJECT_DIR$/stored_emails.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/assets/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/assets/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +67,13 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marko\Desktop\FAKS\rest\Mail" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend" />
       <recent name="C:\Users\marko\Desktop\FAKS\rest" />
       <recent name="C:\Users\marko\Desktop\FAKS\rest\frontend\assets" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\marko\Desktop\FAKS\rest\Mail" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.email.php">
@@ -132,7 +134,7 @@
       <workItem from="1605896996003" duration="3372000" />
       <workItem from="1605952480395" duration="12000" />
       <workItem from="1606040937534" duration="2398000" />
-      <workItem from="1606063563686" duration="2514000" />
+      <workItem from="1606063563686" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="Chnages version 2">
       <created>1605900328910</created>
@@ -176,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606065742392</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="unused">
+      <created>1606066187826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606066187826</updated>
+    </task>
+    <task id="LOCAL-00008" summary="unused">
+      <created>1606066935154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606066935154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,17 +301,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604324935643" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606065745984">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606066945239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606065745984" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606066945239" />
     <state x="342" y="140" key="new project wizard" timestamp="1604496435165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604496435165" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605898963245">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606068309031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605898963245" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606068309031" />
   </component>
 </project>

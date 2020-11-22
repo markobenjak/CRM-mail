@@ -41,6 +41,13 @@ a {
     clear: left;
   }
 }
+@media (max-width: 1500px) and (min-width: 900px) {
+  .col{
+    width: 50%;
+    float: right;
+    clear: both;
+  }
+}
 
 .card {
   display: block;

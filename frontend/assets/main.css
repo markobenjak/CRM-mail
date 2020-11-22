@@ -140,6 +140,24 @@
 
 }
 
+@media (max-width: 1500px) {
+	.formPopup {
+		width: 50%;
+	}
+
+	textarea{
+		width: 100%;
+	}
+
+}
+
+@media (max-width: 1500px) and (min-width: 900px) {
+	.addUser{
+		float: right;
+		width: 70%;
+	}
+}
+
 /* Mobile phone layout */
 
 @media (max-width: 450px) {
@@ -147,7 +165,10 @@
 	.sidebar-left {
 		padding: 20px 0;
 	}
-
+	.addUser{
+		width: 100%;
+		float: left;
+	}
 	.sidebar-left .sidebar-links {
 		text-align: center;
 		margin: 20px auto 0;
