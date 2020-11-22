@@ -19,7 +19,8 @@ ali kako to obično bude, ne radi svima sve od prve. Ukoliko baca neki error rij
     
 3. Ako koristite IntelliJ otvorite datoteku frontend/login.php. U desnom kutu će te vidjeti izbor browsera za otvaranje
 ![Browsers](/images/browseri.png)
-  Sve datoteke u frontend datoteci će vas odvesti na Login stranicu, jer prvi puta nema te aktivni session.
+
+Sve datoteke u frontend datoteci će vas odvesti na Login stranicu, jer prvi puta nemate aktivni session.
 
 4. Za login iskoristite username i password za korisnika koji je unesen sa bazom
 ![Login](/images/login.png)
