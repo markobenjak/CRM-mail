@@ -13,3 +13,8 @@ Napomena: Projekt je rađen u IntelliJ razvojnom okruženju koji ima svoj atuoma
   U cijeloj bazi će biti importan samo jedan redak, a to je korisnik za login u aplikaciju. 
   username: projekt.php80@gmail.com
   password: test
+  
+2. Projekt koristi PHP biblioteke koje vam vjerojatno neće raditi iz prve. Odnosno bacati će razne errore u browseru. Library je uključen u projekt u fodler Mail, 
+    ali kako to obično bude, ne radi svima sve od prve. Ukoliko baca neki error riješenje se pronađe vrlo brzo u google. Nažalost, ne mogu reći što točno treba jer je meni radilo       od prve, jer sam nešto slično radio prije nekoliko mjeseci, ali više ne znam što mi je točno stvaralo problem.
+    
+3.
