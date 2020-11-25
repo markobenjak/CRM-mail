@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `crm_test` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `crm_test`;
+CREATE DATABASE  IF NOT EXISTS `crm_email` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `crm_email`;
 -- MySQL dump 10.13  Distrib 8.0.22, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: crm_test
+-- Host: 127.0.0.1    Database: crm_email
 -- ------------------------------------------------------
 -- Server version	8.0.22
 
@@ -29,9 +29,9 @@ CREATE TABLE `archive_emails` (
   `msg_id` varchar(128) DEFAULT NULL,
   `from` varchar(128) DEFAULT NULL,
   `subject` varchar(1000) DEFAULT NULL,
-  `message` varchar(1000) DEFAULT NULL,
+  `message` text,
   `date` datetime DEFAULT NULL,
-  `answer` varchar(1000) DEFAULT NULL,
+  `answer` text,
   `answer_date` varchar(1000) DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `id_UNIQUE` (`id`),
@@ -60,7 +60,7 @@ CREATE TABLE `emails` (
   `msg_id` varchar(264) DEFAULT NULL,
   `from` varchar(100) DEFAULT NULL,
   `subject` varchar(100) DEFAULT NULL,
-  `message` varchar(264) DEFAULT NULL,
+  `message` text,
   `date` datetime DEFAULT NULL,
   `answer` varchar(264) DEFAULT NULL,
   `answer_date` datetime DEFAULT NULL,
@@ -130,11 +130,11 @@ INSERT INTO `users` VALUES (1,'Marko','Benjak','projekt.php80@gmail.com','$2y$10
 UNLOCK TABLES;
 
 --
--- Dumping events for database 'crm_test'
+-- Dumping events for database 'crm_email'
 --
 
 --
--- Dumping routines for database 'crm_test'
+-- Dumping routines for database 'crm_email'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -146,4 +146,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-11-22 17:51:28
+-- Dump completed on 2020-11-25 20:45:43
