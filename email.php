@@ -7,9 +7,7 @@ $inbox = imap_open($hostname,$username,$password);
 $emails = imap_search($inbox,'ALL');
 $counter = 0;
 foreach($emails as $e){
-//    $message = imap_fetchbody($inbox,$e,2);
-//    $message = quoted_printable_decode(imap_fetchbody($inbox,$e,2));
-//    $message = imap_fetchbody($inbox,$e,2.2);
+
     $message = trim(substr(imap_fetchbody($inbox,$e,1), 0));
     $message = str_replace("'", ' ', $message);
     $message = str_replace("=", ' ', $message);
@@ -36,8 +34,6 @@ foreach($emails as $e){
         $counter = $counter + 1;
     }
 
-    // you can do a var_dump($details) to see which parts you need
-    //then do whatever to insert them into your DB
 }
 $con->close();
 

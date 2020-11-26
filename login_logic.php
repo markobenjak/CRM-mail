@@ -10,7 +10,7 @@ if (isset($_POST['login']) && !empty($_POST['username'])
 
     $sql = "SELECT `email`, `password`, `admin` FROM users";
     $result = mysqli_query ($con, $sql);
-
+    $login = false;
 
     while($row_list = mysqli_fetch_assoc ( $result )) {
         if (password_verify($_POST['password'], $row_list['password']) &&
@@ -19,9 +19,16 @@ if (isset($_POST['login']) && !empty($_POST['username'])
             $_SESSION['timeout'] = time();
             $_SESSION['username'] = $row_list['email'];
             $_SESSION['level'] =  $row_list['admin'];
-            header('Refresh: 0; URL = frontend/main.php');
+            $login = true;
         }
     }
+
+    if($login == true){
+        header('Refresh: 0; URL = frontend/main.php');
+    }else{
+        header('Refresh: 0; URL = frontend/login.php');
+    }
+
 }else{
     echo 'Something went wrong';
     header('Refresh: 2; URL = frontend/login.php');

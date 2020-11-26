@@ -4,13 +4,10 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="assets/login.css">
-
 </head>
 
 <body>
-
     <main>
-
         <form action="../login_logic.php" method="post">
             <div class="login">
                 <h2>Login</h2>
@@ -21,8 +18,6 @@
             <div class="shadow"></div>
         </form>
     </main>>
-
-
 </body>
 
 </html>

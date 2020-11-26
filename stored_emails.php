@@ -10,16 +10,6 @@ $counter = 0;
 while($row_list = mysqli_fetch_assoc ( $result )) {
     $counter = $counter + 1;
 
-//    echo '
-//    <div id="emails" align="center">
-//      <div class="tr">
-//       <div class="">',$row_list['subject'], '</div>
-//       <div class="">',$row_list['from'], '</div>
-//       <div class="">',$row_list['date'], '</div>
-//      </div>
-//    </div>
-//  ';
-
     echo '
     <div class="col" >
         <a href="javascript:void();" class="card card-9 stacked--fan-left">
