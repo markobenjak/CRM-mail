@@ -24,9 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="unused">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,19 +74,6 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.email.php">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="db.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rest_php/rest/db.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -134,7 +118,13 @@
       <workItem from="1605896996003" duration="3372000" />
       <workItem from="1605952480395" duration="12000" />
       <workItem from="1606040937534" duration="2398000" />
-      <workItem from="1606063563686" duration="4853000" />
+      <workItem from="1606063563686" duration="5045000" />
+      <workItem from="1606164423530" duration="2000" />
+      <workItem from="1606243739873" duration="870000" />
+      <workItem from="1606329884208" duration="2968000" />
+      <workItem from="1606408075036" duration="5215000" />
+      <workItem from="1606765033506" duration="454000" />
+      <workItem from="1606765521466" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="Chnages version 2">
       <created>1605900328910</created>
@@ -192,7 +182,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606066935154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="unused">
+      <created>1606068507500</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606068507500</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes regarding format">
+      <created>1606333607574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606333607574</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Format Changes">
+      <created>1606418071257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606418071257</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +225,9 @@
     <MESSAGE value="Chnages version 2" />
     <MESSAGE value="Removed comments" />
     <MESSAGE value="unused" />
-    <option name="LAST_COMMIT_MESSAGE" value="unused" />
+    <MESSAGE value="changes regarding format" />
+    <MESSAGE value="Format Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Format Changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604322128376">
@@ -225,6 +238,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604322235401" />
+    <state x="349" y="361" key="#SQL_Dialects" timestamp="1606411853828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1606411853828" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606411869630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606411869630" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605897101888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -301,10 +322,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604324935643" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606066945239">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606418073559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606066945239" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606418073559" />
     <state x="342" y="140" key="new project wizard" timestamp="1604496435165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
