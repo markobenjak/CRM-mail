@@ -37,4 +37,4 @@ foreach($emails as $e){
 }
 $con->close();
 
-header('Location: http://localhost:63342/rest/frontend/main.php');
+header('Refresh: 0; URL = frontend/main.php');;

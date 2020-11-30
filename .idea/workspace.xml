@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76322e87-c1f4-47aa-ba2e-e9bd7d8d857c" name="Default Changelist" comment="unused">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +126,9 @@
       <workItem from="1606408075036" duration="5215000" />
       <workItem from="1606765033506" duration="454000" />
       <workItem from="1606765521466" duration="162000" />
+      <workItem from="1606765942610" duration="111000" />
+      <workItem from="1606766810341" duration="266000" />
+      <workItem from="1606767811369" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Chnages version 2">
       <created>1605900328910</created>
@@ -203,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606418071257</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="full commit">
+      <created>1606765991122</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606765991122</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +238,8 @@
     <MESSAGE value="unused" />
     <MESSAGE value="changes regarding format" />
     <MESSAGE value="Format Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Format Changes" />
+    <MESSAGE value="full commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="full commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604322128376">
@@ -322,10 +334,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604324935643" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606418073559">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606765997018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606418073559" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606765997018" />
     <state x="342" y="140" key="new project wizard" timestamp="1604496435165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
